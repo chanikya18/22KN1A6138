@@ -1,0 +1,21 @@
+assignment project for the workshop where students will create a "ScoreCard" web application using HTML, CSS, and JavaScript. This project allows users to input the number of players, generate scorecards for each player, and manage their scores with increment and decrement buttons.
+
+Project Overview
+Website Name: ScoreCard
+
+Objective: Build a website where users can enter the number of players. For each player, a scorecard with their name and score (starting at 0) will be generated. Each scorecard will have buttons to increment and decrement the score.
+
+Assignment Instructions
+1. Setup HTML Structure
+
+Create a basic HTML page with a form to input the number of players.
+Create a container to hold the scorecards dynamically.
+2. Style with CSS
+
+Style the form and scorecards for a clean and user-friendly interface.
+Use Flexbox or Grid for layout.
+3. Add Functionality with JavaScript
+
+Capture the number of players from the form input.
+Generate a scorecard for each player with editable names and functional increment and decrement buttons.
+Ensure that scores do not go below 0.
